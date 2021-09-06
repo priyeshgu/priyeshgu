@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @priyeshgu aka Priyesh Gupta
-- 👀 I’m interested in WebDevelopment, IOT and Pizzas with extra �🧀
+- 👀 I’m interested in WebDevelopment, IOT and Pizzas with extra 🧀
 - 🌱 I’m currently learning full stack development.
 - 📫 To reach me drop me a mail on priyeshg.gupta5@gmail.com
 
